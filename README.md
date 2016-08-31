@@ -1,0 +1,2 @@
+# kodes
+my first repository.
